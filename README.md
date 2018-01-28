@@ -1,17 +1,16 @@
 ### How to play
 
-Make sure you have latest version of NodeJs
+Make sure you have latest version of NodeJs and follow steps.
 
-``` git clone git@github.com:sunali1/react-tic-tac-toe.git ```
+* ``` git clone git@github.com:sunali1/react-tic-tac-toe.git ```
 
-cd react-tic-tac-toe
+* ``` cd react-tic-tac-toe ```
 
-``` npm start ```
+* ``` npm start ```
 
-Open ``` http://localhost:3000 ``` in Chrome.
+* Open ``` http://localhost:3000 ``` in Chrome.
 
-
-
+You are ready to play.
 
 ### User stories:
 
